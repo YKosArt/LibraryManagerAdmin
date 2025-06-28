@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tg46D5fZG6g=",
+  "success": true,
+  "projectFilePath": "D:\\project\\Git\\C#\\ConsolApp\\ConsoleApp0\\ConsoleApp0.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\YKos\\.nuget\\packages\\pastel\\6.0.1\\pastel.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

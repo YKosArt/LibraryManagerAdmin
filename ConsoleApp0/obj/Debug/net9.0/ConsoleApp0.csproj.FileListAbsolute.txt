@@ -1,0 +1,17 @@
+D:\project\Git\C#\ConsolApp\ConsoleApp0\bin\Debug\net9.0\ConsoleApp0.exe
+D:\project\Git\C#\ConsolApp\ConsoleApp0\bin\Debug\net9.0\ConsoleApp0.deps.json
+D:\project\Git\C#\ConsolApp\ConsoleApp0\bin\Debug\net9.0\ConsoleApp0.runtimeconfig.json
+D:\project\Git\C#\ConsolApp\ConsoleApp0\bin\Debug\net9.0\ConsoleApp0.dll
+D:\project\Git\C#\ConsolApp\ConsoleApp0\bin\Debug\net9.0\ConsoleApp0.pdb
+D:\project\Git\C#\ConsolApp\ConsoleApp0\obj\Debug\net9.0\ConsoleApp0.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\Git\C#\ConsolApp\ConsoleApp0\obj\Debug\net9.0\ConsoleApp0.AssemblyInfoInputs.cache
+D:\project\Git\C#\ConsolApp\ConsoleApp0\obj\Debug\net9.0\ConsoleApp0.AssemblyInfo.cs
+D:\project\Git\C#\ConsolApp\ConsoleApp0\obj\Debug\net9.0\ConsoleApp0.csproj.CoreCompileInputs.cache
+D:\project\Git\C#\ConsolApp\ConsoleApp0\obj\Debug\net9.0\ConsoleApp0.dll
+D:\project\Git\C#\ConsolApp\ConsoleApp0\obj\Debug\net9.0\refint\ConsoleApp0.dll
+D:\project\Git\C#\ConsolApp\ConsoleApp0\obj\Debug\net9.0\ConsoleApp0.pdb
+D:\project\Git\C#\ConsolApp\ConsoleApp0\obj\Debug\net9.0\ConsoleApp0.genruntimeconfig.cache
+D:\project\Git\C#\ConsolApp\ConsoleApp0\obj\Debug\net9.0\ref\ConsoleApp0.dll
+D:\project\Git\C#\ConsolApp\ConsoleApp0\bin\Debug\net9.0\Pastel.dll
+D:\project\Git\C#\ConsolApp\ConsoleApp0\obj\Debug\net9.0\ConsoleApp0.csproj.AssemblyReference.cache
+D:\project\Git\C#\ConsolApp\ConsoleApp0\obj\Debug\net9.0\ConsoleA.18E1AA07.Up2Date
